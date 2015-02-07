@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Banner&amp;Interstitial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-xxxxxxxx/xxxxxx</string>
+    <string name="ad_unit_id">ca-app-pub-xxxxxxxxx/xxxxxxxxx</string>
+</resources>
